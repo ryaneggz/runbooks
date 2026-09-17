@@ -7,6 +7,7 @@ Operational runbooks. Each runbook is a single Markdown file in [`runbooks/`](ru
 | Runbook | Purpose |
 | --- | --- |
 | [template](runbooks/template.md) | Starting point for a new runbook |
+| [ubuntu-24-xfce-xrdp-tailscale](runbooks/ubuntu-24-xfce-xrdp-tailscale.md) | Lightweight Ubuntu 24.04 remote dev VM with XFCE/XRDP and SSH/RDP kept off the public network with Tailscale |
 
 ## Add a runbook
 
